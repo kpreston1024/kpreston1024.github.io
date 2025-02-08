@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: home}
-  - {file: "Kayla Preston 2024 Resume.pdf", title: "Resume"}
+  - {file: "Kayla.pdf", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kpres007@odu.edu"}
