@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Resume", url: "https://docs.google.com/document/d/1-mmuw_5CH9gi2bRTtNfeJyHK_Bs0u7EU/edit?usp=sharing&ouid=107648069344045075677&rtpof=true&sd=true"}
-
+  - {title: "Extra", file: extra.md}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kpres007@odu.edu"}
   - {title: Github, icon: github, url: "https://github.com/kpreston1024"}
